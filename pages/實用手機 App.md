@@ -1,4 +1,5 @@
-- 芬蘭常用 App，剛好轉給朋友就順便貼上來，也許有人會需要 by Chen Hung-Han
+- 內容提供 #ChenHung-Han
+- 芬蘭常用 App，剛好轉給朋友就順便貼上來，也許有人會需要
 - [[iOS]]
 	- [Whim](https://apps.apple.com/fi/app/whim-travel-smarter/id1110962965) 可以買HSL票、租車
 	- [OmaPosti](https://apps.apple.com/fi/app/omaposti/id410789057) 郵局
@@ -20,4 +21,5 @@
 	- [Klarna](https://apps.apple.com/fi/app/klarna-shop-now-pay-later/id1115120118) 類似PayPal 很多Local 店家用這個
 	- [Citymapper](https://apps.apple.com/fi/app/citymapper-all-your-transport/id469463298) 看巴士到站較好用
 	- [Koronavilkku](https://apps.apple.com/fi/app/koronavilkku/id1520576224) Corona contact tracing
+	- [PriceSpy](https://apps.apple.com/sg/app/pricespy-shopping-deals/id369151774) 比價 App 有英文
 	-
