@@ -53,7 +53,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
- :default-home {:page "Contents"}
+ :default-home {:page "首頁"}
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
@@ -166,6 +166,9 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
+ :favorites []
+ :journal/page-title-format "yyyy/MM/dd"
+ :feature/enable-journals? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
