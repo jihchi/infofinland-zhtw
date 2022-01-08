@@ -1,3 +1,3 @@
 # Information About Finland in Traditional Chinese (Taiwan) 
 
-提供台灣人在芬蘭各種實用資訊
+InfoFinland 中文台灣 提供🇫🇮芬蘭相關資訊，內容由熱心公眾提供，謝謝您的無私貢獻 🙇🏻‍♂️
