@@ -11,14 +11,14 @@
 	- [Restis](https://apps.apple.com/fi/app/restis/id1173462547) 很難用但是有時候有 coupons
 	- [Spiir](https://apps.apple.com/fi/app/spiir/id441748209) 連結銀行自動記帳
 	- [Nordnet](https://apps.apple.com/fi/app/nordnet/id345038631) 股市投資
-	- [GetTransfer.com](https://apps.apple.com/fi/app/gettransfer-com/id1150570978) 叫計程車類似Uber 但偏遠程 (eg. 機場接送)
+	- [GetTransfer.com](https://apps.apple.com/fi/app/gettransfer-com/id1150570978) 叫計程車類似 Uber 但偏遠程 (eg. 機場接送)
 	- [Yango taxi](https://apps.apple.com/fi/app/yango-taxi/id1437157286) 類似 Uber
 	- [FixuTaxi](https://apps.apple.com/fi/app/fixutaxi/id1392391344) Local Taxi 頗貴但服務好
 	- [02 Taksi](https://apps.apple.com/fi/app/02-taksi/id1483173582) Local Taxi
 	- [Beast Rent](https://apps.apple.com/fi/app/beast-rent/id1521729069) 租 Tesla 但車很少
 	- [Suomi.fi](https://apps.apple.com/fi/app/suomi-fi/id1383289018) 國民 App
 	- [112 Suomi](https://apps.apple.com/fi/app/112-suomi/id998281396) 報警可自動定位
-	- [Klarna](https://apps.apple.com/fi/app/klarna-shop-now-pay-later/id1115120118) 類似PayPal 很多Local 店家用這個
+	- [Klarna](https://apps.apple.com/fi/app/klarna-shop-now-pay-later/id1115120118) 類似 PayPal 很多Local 店家用這個
 	- [Citymapper](https://apps.apple.com/fi/app/citymapper-all-your-transport/id469463298) 看巴士到站較好用
 	- [Koronavilkku](https://apps.apple.com/fi/app/koronavilkku/id1520576224) Corona contact tracing
 	- [PriceSpy](https://apps.apple.com/sg/app/pricespy-shopping-deals/id369151774) 比價 App 有英文
