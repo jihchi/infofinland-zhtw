@@ -14,9 +14,10 @@
     "url": "git+https://github.com/jihchi/infofinland-zhtw.git"
   },
   "scripts": {
-    "update": "node ./src/update.mjs"
+    "update": "zx ./update.mjs"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "zx": "^4.2.0"
   }
 }
