@@ -3,8 +3,8 @@ import 'zx/globals';
 import cheerio from 'cheerio';
 
 const dir = {
-  public: (...paths) => path.join(__dirname, './public', ...paths),
-  hatchfull: (...paths) => path.join(__dirname, './HatchfulExport-All', ...paths),
+  public: (...paths) => path.join(__dirname, '../public', ...paths),
+  hatchfull: (...paths) => path.join(__dirname, '../HatchfulExport-All', ...paths),
 }
 
 console.log(chalk.blue('Updating', chalk.bold('index.html'), '...'));
