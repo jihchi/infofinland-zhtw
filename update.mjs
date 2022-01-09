@@ -22,4 +22,6 @@ $('meta[property="og:site_name"]').attr('content', 'InfoFinland 中文台灣');
 await fs.outputFile(indexHtml, $.html());
 
 console.log(chalk.blue('Update', chalk.bold('favicon'), '...'));
+await $`ls -la ${dir.hatchfull('favicon.png')}`;
+await $`ls -la ${dir.public('static/img/logo.png')}`;
 await $`cp -f ${dir.hatchfull('favicon.png')} ${dir.public('static/img/logo.png')}`;
