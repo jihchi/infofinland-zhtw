@@ -8,7 +8,7 @@ const dir = {
 }
 
 console.log(chalk.blue('Updating', chalk.bold('index.html'), '...'));
-const indexHtml = dir.public('./index.html');
+const indexHtml = dir.public('index.html');
 const $ = cheerio.load(await fs.readFile(indexHtml, 'utf8'));
 
 $('title').html("InfoFinland 中文台灣");
@@ -22,4 +22,4 @@ $('meta[property="og:site_name"]').attr('content', 'InfoFinland 中文台灣');
 await fs.outputFile(indexHtml, $.html());
 
 console.log(chalk.blue('Update', chalk.bold('favicon'), '...'));
-await $`mv ${dir.hatchfull('./favicon.png')} ${dir.public('./static/img/logo.png')}`;
+await $`cp ${dir.hatchfull('favicon.png')} ${dir.public('static/img/logo.png')}`;
