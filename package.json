@@ -1,0 +1,21 @@
+{
+  "name": "infofinland-zhtw",
+  "version": "1.0.0",
+  "description": "[InfoFinland 中文台灣](https://infofinland.tw) 提供🇫🇮芬蘭相關資訊，內容由熱心公眾提供，謝謝您的無私貢獻 🙇🏻‍♂️",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihchi/infofinland-zhtw.git"
+  },
+  "keywords": [],
+  "author": "hello@infofinland.tw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jihchi/infofinland-zhtw/issues"
+  },
+  "homepage": "https://github.com/jihchi/infofinland-zhtw#readme",
+  "private": true
+}
