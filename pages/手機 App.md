@@ -65,7 +65,7 @@
 		- [Finnair](https://apps.apple.com/fi/app/finnair/id933867978) 芬蘭本土航空公司
 	- #### [[娛樂]]
 		- [Finnkino](https://apps.apple.com/fi/app/finnkino/id969034910) 電影
-		- Aurora 極光預報
+		- [My Aurora Forecast & Alerts](https://apps.apple.com/fi/app/my-aurora-forecast-alerts/id1073082439?fbclid=IwAR2RpOfmpqfn_Nir3RgK5C11TtlauvRT0V10ynYVeHYKD65C-i4WArMcAUs) 極光預報
 	- ####  [[旅館]]
 		- [Booking.com Travel Deals](https://apps.apple.com/fi/app/booking-com-travel-deals/id367003839)
 		- [Scandic Hotels](https://apps.apple.com/fi/app/scandic-hotels/id1267218985)
