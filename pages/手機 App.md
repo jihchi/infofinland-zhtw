@@ -25,7 +25,7 @@
 	- [Citymapper](https://apps.apple.com/fi/app/citymapper-all-your-transport/id469463298) 看巴士到站較好用
 	- [Koronavilkku](https://apps.apple.com/fi/app/koronavilkku/id1520576224) Corona contact tracing
 	- [PriceSpy](https://apps.apple.com/sg/app/pricespy-shopping-deals/id369151774) 比價 App 有英文
-	- [ResQ Club](https://apps.apple.com/fi/app/resq-club/id1069744707) 可以看哪些餐廳有特價食物或者過剩，價格非常便宜
+	- [ResQ Club](https://apps.apple.com/fi/app/resq-club/id1069744707) 可以看哪些餐廳有特價食物或者過剩，價格比較便宜 (很多 €10 以下，看餐點是什麼)
 	- [VR Matkalla](https://apps.apple.com/fi/app/vr-matkalla/id1410647394) 買火車票
 	- [Libby, by OverDrive](https://apps.apple.com/fi/app/libby-by-overdrive/id1076402606) Free books and audiobooks
 	- [Finland News in English Today & Finnish Radio](https://apps.apple.com/fi/app/finland-news-in-english-today-finnish-radio/id1220644490) 芬蘭新聞 in English: 集合多個報社的新聞
