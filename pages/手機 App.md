@@ -4,34 +4,68 @@
 	- #Jennifer_Chiang
 - 芬蘭常用 App，剛好轉給朋友就順便貼上來，也許有人會需要
 - ## iOS
-	- [Whim](https://apps.apple.com/fi/app/whim-travel-smarter/id1110962965) 可以買HSL票、租車
-	- [OmaPosti](https://apps.apple.com/fi/app/omaposti/id410789057) 郵局
-	- [Hesburger](https://apps.apple.com/fi/app/hesburger/id1062839905) 有 coupons 可線上預訂
-	- [foodora Finland](https://apps.apple.com/fi/app/foodora-finland/id703574232) 比 Wolt 便宜一點的外送 😄
-	- [Alko](https://apps.apple.com/fi/app/alko/id1434288047) 菸酒公賣局 可辨識儲存酒
-	- [Mobile Pay](https://apps.apple.com/fi/app/mobilepay/id768172577) 可以轉帳存信用卡、會員卡S, K在裡面
-	- [Terveystalo](https://apps.apple.com/fi/app/terveystalo/id438441318) 私人診所 App (某些公司的員工保險)
-	- [Restis](https://apps.apple.com/fi/app/restis/id1173462547) 很難用但是有時候有 coupons
-	- [Spiir](https://apps.apple.com/fi/app/spiir/id441748209) 連結銀行自動記帳
-	- [Nordnet](https://apps.apple.com/fi/app/nordnet/id345038631) 股市投資
-	- [GetTransfer.com](https://apps.apple.com/fi/app/gettransfer-com/id1150570978) 叫計程車類似 Uber 但偏遠程 (eg. 機場接送)
-	- [Yango taxi](https://apps.apple.com/fi/app/yango-taxi/id1437157286) 類似 Uber
-	- [FixuTaxi](https://apps.apple.com/fi/app/fixutaxi/id1392391344) Local Taxi 頗貴但服務好
-	- [02 Taksi](https://apps.apple.com/fi/app/02-taksi/id1483173582) Local Taxi
-	- [Beast Rent](https://apps.apple.com/fi/app/beast-rent/id1521729069) 租 Tesla 但車很少
-	- [Suomi.fi](https://apps.apple.com/fi/app/suomi-fi/id1383289018) 國民 App
-	- [112 Suomi](https://apps.apple.com/fi/app/112-suomi/id998281396) 報警可自動定位
-	- [Klarna](https://apps.apple.com/fi/app/klarna-shop-now-pay-later/id1115120118) 類似 PayPal 很多Local 店家用這個
-	- [Citymapper](https://apps.apple.com/fi/app/citymapper-all-your-transport/id469463298) 看巴士到站較好用
-	- [Koronavilkku](https://apps.apple.com/fi/app/koronavilkku/id1520576224) Corona contact tracing
-	- [PriceSpy](https://apps.apple.com/sg/app/pricespy-shopping-deals/id369151774) 比價 App 有英文
-	- [ResQ Club](https://apps.apple.com/fi/app/resq-club/id1069744707) 可以看哪些餐廳有特價食物或者過剩，價格比較便宜 (很多 €10 以下，看餐點是什麼)
-	- [VR Matkalla](https://apps.apple.com/fi/app/vr-matkalla/id1410647394) 買火車票
-	- [Libby, by OverDrive](https://apps.apple.com/fi/app/libby-by-overdrive/id1076402606) Free books and audiobooks
-	- [Finland News in English Today & Finnish Radio](https://apps.apple.com/fi/app/finland-news-in-english-today-finnish-radio/id1220644490) 芬蘭新聞 in English: 集合多個報社的新聞
-	- [Yle Areena - TV ja radio](https://apps.apple.com/fi/app/yle-areena-tv-ja-radio/id542317657) 可看 Yle 節目們 (僅有芬蘭文)
-	- [Yle Kielikoulu Yle Språkskolan](https://apps.apple.com/fi/app/yle-kielikoulu-yle-spr%C3%A5kskolan/id1515277009) 看劇學芬蘭文或瑞典文
-	- [Maisa](https://apps.apple.com/fi/app/maisa/id1412054160) Public social and health services
-	- 有開車的朋友，推薦以下停車繳費軟體：（因為曾經忘記繳費，被大蘋果停車場寄帳單催繳 1.5 歐停車費 + 帳單寄送行政費用 5 歐）
-		- [Moovy](https://apps.apple.com/fi/app/moovy-better-parking-service/id1281465785)
-		- [EasyPark](https://apps.apple.com/app/id449594317)
+	- ### [[交通]]
+		- [Whim](https://apps.apple.com/fi/app/whim-travel-smarter/id1110962965) 可以買HSL票、租車
+	- ###  [[生活]]
+		- [OmaPosti](https://apps.apple.com/fi/app/omaposti/id410789057) 郵局
+		- [Suomi.fi](https://apps.apple.com/fi/app/suomi-fi/id1383289018) 國民 App
+		- [112 Suomi](https://apps.apple.com/fi/app/112-suomi/id998281396) 報警可自動定位
+		- [Finland News in English Today & Finnish Radio](https://apps.apple.com/fi/app/finland-news-in-english-today-finnish-radio/id1220644490) 芬蘭新聞 in English: 集合多個報社的新聞
+	- #### [[飲食]]
+		- ##### [[速食]]
+			- [Hesburger](https://apps.apple.com/fi/app/hesburger/id1062839905) 有 coupons 可線上預訂
+		- ##### [[外送]]
+			- [Wolt](https://apps.apple.com/fi/app/wolt-delivery-food-and-more/id943905271) 優質外送平台 ⭐️ ⭐️ ⭐️
+			- [foodora Finland](https://apps.apple.com/fi/app/foodora-finland/id703574232) 比 Wolt 便宜一點的外送 😄
+		- ##### [[超市]]
+			- [S-mobiili](https://apps.apple.com/fi/app/s-mobiili/id740514933) S 集團
+			- [K-Ruoka](https://apps.apple.com/fi/app/k-ruoka/id1012903895) 類似 7-11 超市
+			- [[Lidl]] 平價超市，有點類似小北百貨
+				- [Lidl Plus](https://apps.apple.com/fi/app/lidl-plus/id1238611143) 會員 App
+				- [Lidl - Offers & Leaflets](https://apps.apple.com/fi/app/lidl-offers-leaflets/id398474140)
+			- [J-Plus](https://apps.apple.com/fi/app/j-plus/id1543661257) 亞超嘉禾 [[亞洲超市]]
+		- ##### [[咖啡]]
+			- [Espresso House](https://apps.apple.com/fi/app/espresso-house/id904399540) 連鎖咖啡店
+		- [Alko](https://apps.apple.com/fi/app/alko/id1434288047) 菸酒公賣局 可辨識儲存酒
+		- [Restis](https://apps.apple.com/fi/app/restis/id1173462547) 很難用但是有時候有 coupons
+		- [ResQ Club](https://apps.apple.com/fi/app/resq-club/id1069744707) 餐廳過剩或特價食物 (比較便宜，很多 €10 以下)
+	- ###  [[電子支付]]
+		- [Mobile Pay](https://apps.apple.com/fi/app/mobilepay/id768172577) 可以轉帳存信用卡、會員卡S, K在裡面
+		- [Klarna](https://apps.apple.com/fi/app/klarna-shop-now-pay-later/id1115120118) 類似 PayPal 很多Local 店家用這個
+	- ####  [[醫療]]
+		- [Terveystalo](https://apps.apple.com/fi/app/terveystalo/id438441318) 私人診所 App (某些公司的員工保險)
+		- [Koronavilkku](https://apps.apple.com/fi/app/koronavilkku/id1520576224) Corona contact tracing
+		- [Maisa](https://apps.apple.com/fi/app/maisa/id1412054160) Public social and health services
+		- [OmaMehiläinen](https://apps.apple.com/fi/app/omamehil%C3%A4inen/id1093796020) 私人醫療 (某些公司的員工保險)
+	- ####  [[金融]]
+		- [Spiir](https://apps.apple.com/fi/app/spiir/id441748209) 連結銀行自動記帳
+		- [Nordnet](https://apps.apple.com/fi/app/nordnet/id345038631) 股市投資
+	- #### [[交通]]
+		- [GetTransfer.com](https://apps.apple.com/fi/app/gettransfer-com/id1150570978) 叫計程車類似 Uber 但偏遠程 (eg. 機場接送)
+		- [Yango taxi](https://apps.apple.com/fi/app/yango-taxi/id1437157286) 類似 Uber
+		- [FixuTaxi](https://apps.apple.com/fi/app/fixutaxi/id1392391344) Local Taxi 頗貴但服務好
+		- [02 Taksi](https://apps.apple.com/fi/app/02-taksi/id1483173582) Local Taxi
+		- [Beast Rent](https://apps.apple.com/fi/app/beast-rent/id1521729069) 租 Tesla 但車很少
+		- [Citymapper](https://apps.apple.com/fi/app/citymapper-all-your-transport/id469463298) 看巴士到站較好用
+		- [VR Matkalla](https://apps.apple.com/fi/app/vr-matkalla/id1410647394) 買火車票
+	- #### [[購物]]
+		- [PriceSpy](https://apps.apple.com/sg/app/pricespy-shopping-deals/id369151774) 比價 App 有英文
+	- #### [[學習]]
+		- [Libby, by OverDrive](https://apps.apple.com/fi/app/libby-by-overdrive/id1076402606) Free books and audiobooks
+		- [Yle Areena - TV ja radio](https://apps.apple.com/fi/app/yle-areena-tv-ja-radio/id542317657) 可看 Yle 節目們 (僅有芬蘭文)
+		- [Yle Kielikoulu Yle Språkskolan](https://apps.apple.com/fi/app/yle-kielikoulu-yle-spr%C3%A5kskolan/id1515277009) 看劇學芬蘭文或瑞典文
+	- #### [[交通]]
+		- ##### [[停車費]]
+			- 有開車的朋友，推薦以下停車繳費軟體：
+				- > 因為曾經忘記繳費，被大蘋果停車場寄帳單催繳 1.5 歐停車費 + 帳單寄送行政費用 5 歐
+				- [Moovy](https://apps.apple.com/fi/app/moovy-better-parking-service/id1281465785)
+				- [EasyPark](https://apps.apple.com/app/id449594317)
+		- [OnniBus.com](https://apps.apple.com/fi/app/onnibus-com/id1274203588) 私人、遠程比較便宜的巴士，可能不到十歐就能從赫爾辛基去土庫
+		- [HSL](https://apps.apple.com/fi/app/hsl/id1340229182) 大赫爾辛基地區交通，包含 local train, bus, tram, ferry, metro
+		- [Finnair](https://apps.apple.com/fi/app/finnair/id933867978) 芬蘭本土航空公司
+	- #### [[娛樂]]
+		- [Finnkino](https://apps.apple.com/fi/app/finnkino/id969034910) 電影
+		- Aurora 極光預報
+	- ####  [[旅館]]
+		- [Booking.com Travel Deals](https://apps.apple.com/fi/app/booking-com-travel-deals/id367003839)
+		- [Scandic Hotels](https://apps.apple.com/fi/app/scandic-hotels/id1267218985)
