@@ -1,4 +1,7 @@
-- 內容提供 #Chen-Hung_Han
+- 內容提供
+	- #Chen-Hung_Han
+	- #Yu-Jung_Chen
+	- #Jennifer_Chiang
 - 芬蘭常用 App，剛好轉給朋友就順便貼上來，也許有人會需要
 - ## iOS
 	- [Whim](https://apps.apple.com/fi/app/whim-travel-smarter/id1110962965) 可以買HSL票、租車
@@ -23,3 +26,12 @@
 	- [Koronavilkku](https://apps.apple.com/fi/app/koronavilkku/id1520576224) Corona contact tracing
 	- [PriceSpy](https://apps.apple.com/sg/app/pricespy-shopping-deals/id369151774) 比價 App 有英文
 	- [ResQ Club](https://apps.apple.com/fi/app/resq-club/id1069744707) 可以看哪些餐廳有特價食物或者過剩，價格非常便宜
+	- [VR Matkalla](https://apps.apple.com/fi/app/vr-matkalla/id1410647394) 買火車票
+	- [Libby, by OverDrive](https://apps.apple.com/fi/app/libby-by-overdrive/id1076402606) Free books and audiobooks
+	- [Finland News in English Today & Finnish Radio](https://apps.apple.com/fi/app/finland-news-in-english-today-finnish-radio/id1220644490) 芬蘭新聞 in English: 集合多個報社的新聞
+	- [Yle Areena - TV ja radio](https://apps.apple.com/fi/app/yle-areena-tv-ja-radio/id542317657) 可看 Yle 節目們 (僅有芬蘭文)
+	- [Yle Kielikoulu Yle Språkskolan](https://apps.apple.com/fi/app/yle-kielikoulu-yle-spr%C3%A5kskolan/id1515277009) 看劇學芬蘭文或瑞典文
+	- [Maisa](https://apps.apple.com/fi/app/maisa/id1412054160) Public social and health services
+	- 有開車的朋友，推薦以下停車繳費軟體：（因為曾經忘記繳費，被大蘋果停車場寄帳單催繳 1.5 歐停車費 + 帳單寄送行政費用 5 歐）
+		- [Moovy](https://apps.apple.com/fi/app/moovy-better-parking-service/id1281465785)
+		- [EasyPark](https://apps.apple.com/app/id449594317)
