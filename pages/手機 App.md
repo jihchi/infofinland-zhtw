@@ -5,7 +5,23 @@
 - 芬蘭常用 App，剛好轉給朋友就順便貼上來，也許有人會需要
 - ## iOS
 	- ### [[交通]]
-		- [Whim](https://apps.apple.com/fi/app/whim-travel-smarter/id1110962965) 可以買HSL票、租車
+		- #### 大眾交通
+			- [HSL](https://apps.apple.com/fi/app/hsl/id1340229182) 大赫爾辛基地區交通，包含 local train, bus, tram, ferry, metro
+			- [Whim](https://apps.apple.com/fi/app/whim-travel-smarter/id1110962965) 可以買HSL票、租車
+			- [VR Matkalla](https://apps.apple.com/fi/app/vr-matkalla/id1410647394) 買火車票
+			- [Citymapper](https://apps.apple.com/fi/app/citymapper-all-your-transport/id469463298) 看巴士到站較好用
+			- [OnniBus.com](https://apps.apple.com/fi/app/onnibus-com/id1274203588) 私人、遠程比較便宜的巴士，可能不到十歐就能從赫爾辛基去土庫
+		- #### 招車
+			- [GetTransfer.com](https://apps.apple.com/fi/app/gettransfer-com/id1150570978) 叫計程車類似 Uber 但偏遠程 (eg. 機場接送)
+			- [Yango taxi](https://apps.apple.com/fi/app/yango-taxi/id1437157286) 類似 Uber
+			- [FixuTaxi](https://apps.apple.com/fi/app/fixutaxi/id1392391344) Local Taxi 頗貴但服務好
+			- [02 Taksi](https://apps.apple.com/fi/app/02-taksi/id1483173582) Local Taxi
+			- [Beast Rent](https://apps.apple.com/fi/app/beast-rent/id1521729069) 租 Tesla 但車很少
+		- ### 私家車
+			- 有開車的朋友，推薦以下停車繳費軟體：
+				- > 因為曾經忘記繳費，被大蘋果停車場寄帳單催繳 1.5 歐停車費 + 帳單寄送行政費用 5 歐
+				- [Moovy](https://apps.apple.com/fi/app/moovy-better-parking-service/id1281465785)
+				- [EasyPark](https://apps.apple.com/app/id449594317)
 	- ###  [[生活]]
 		- [OmaPosti](https://apps.apple.com/fi/app/omaposti/id410789057) 郵局
 		- [Suomi.fi](https://apps.apple.com/fi/app/suomi-fi/id1383289018) 國民 App
@@ -40,29 +56,12 @@
 	- ####  [[金融]]
 		- [Spiir](https://apps.apple.com/fi/app/spiir/id441748209) 連結銀行自動記帳
 		- [Nordnet](https://apps.apple.com/fi/app/nordnet/id345038631) 股市投資
-	- #### [[交通]]
-		- [GetTransfer.com](https://apps.apple.com/fi/app/gettransfer-com/id1150570978) 叫計程車類似 Uber 但偏遠程 (eg. 機場接送)
-		- [Yango taxi](https://apps.apple.com/fi/app/yango-taxi/id1437157286) 類似 Uber
-		- [FixuTaxi](https://apps.apple.com/fi/app/fixutaxi/id1392391344) Local Taxi 頗貴但服務好
-		- [02 Taksi](https://apps.apple.com/fi/app/02-taksi/id1483173582) Local Taxi
-		- [Beast Rent](https://apps.apple.com/fi/app/beast-rent/id1521729069) 租 Tesla 但車很少
-		- [Citymapper](https://apps.apple.com/fi/app/citymapper-all-your-transport/id469463298) 看巴士到站較好用
-		- [VR Matkalla](https://apps.apple.com/fi/app/vr-matkalla/id1410647394) 買火車票
 	- #### [[購物]]
 		- [PriceSpy](https://apps.apple.com/sg/app/pricespy-shopping-deals/id369151774) 比價 App 有英文
 	- #### [[學習]]
 		- [Libby, by OverDrive](https://apps.apple.com/fi/app/libby-by-overdrive/id1076402606) Free books and audiobooks
 		- [Yle Areena - TV ja radio](https://apps.apple.com/fi/app/yle-areena-tv-ja-radio/id542317657) 可看 Yle 節目們 (僅有芬蘭文)
 		- [Yle Kielikoulu Yle Språkskolan](https://apps.apple.com/fi/app/yle-kielikoulu-yle-spr%C3%A5kskolan/id1515277009) 看劇學芬蘭文或瑞典文
-	- #### [[交通]]
-		- ##### [[停車費]]
-			- 有開車的朋友，推薦以下停車繳費軟體：
-				- > 因為曾經忘記繳費，被大蘋果停車場寄帳單催繳 1.5 歐停車費 + 帳單寄送行政費用 5 歐
-				- [Moovy](https://apps.apple.com/fi/app/moovy-better-parking-service/id1281465785)
-				- [EasyPark](https://apps.apple.com/app/id449594317)
-		- [OnniBus.com](https://apps.apple.com/fi/app/onnibus-com/id1274203588) 私人、遠程比較便宜的巴士，可能不到十歐就能從赫爾辛基去土庫
-		- [HSL](https://apps.apple.com/fi/app/hsl/id1340229182) 大赫爾辛基地區交通，包含 local train, bus, tram, ferry, metro
-		- [Finnair](https://apps.apple.com/fi/app/finnair/id933867978) 芬蘭本土航空公司
 	- #### [[娛樂]]
 		- [Finnkino](https://apps.apple.com/fi/app/finnkino/id969034910) 電影
 		- [My Aurora Forecast & Alerts](https://apps.apple.com/fi/app/my-aurora-forecast-alerts/id1073082439?fbclid=IwAR2RpOfmpqfn_Nir3RgK5C11TtlauvRT0V10ynYVeHYKD65C-i4WArMcAUs) 極光預報
