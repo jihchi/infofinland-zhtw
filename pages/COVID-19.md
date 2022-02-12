@@ -1,4 +1,5 @@
 - 內容提供 #Chen-Hung_Han
+- [[醫療]]
 - ## Testing
 	- 有 Covid 症狀要做測試要跟這個機器人聊天 https://koronabotti.hus.fi/en
 		- 但預約都要等一個禮拜（早就好了⋯）
